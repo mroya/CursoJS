@@ -1,4 +1,4 @@
-# CursoJScriptAndTScript
+# Curso de JavaScript And TypeScript
 Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns - Prof Luis Otavio Miranda - Udemy
 Curso de JavaScript e TypeScript do básico ao avançado - O curso mais completo sobre todas as nuances do JavaScript você você vai encontrar na atualidade.
 
