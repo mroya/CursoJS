@@ -1,0 +1,6 @@
+{
+    "statusBarCustomItem.text": "Marcio Roya",
+    "statusBarCustomItem.tooltip": "This Visual Studio Code belongs to Marcio Roya.",
+    "editor.suggest.showStatusBar": false,
+    "statusBarCustomColor.primaryBkColor": "#007acc"
+}
