@@ -27,18 +27,26 @@ body {
   align-items: center;
 }
 
-table {
+div {
+  width: auto;
+  height: auto;
+  margin: 0 15px;
+  padding: 5px;
+  display: inline-block;
+}
+
+/* table {
   border-collapse: separate;
   border-spacing: 60px 8px;
   margin-top: -8px;
-}
+} */
 
-td {
+/* td {
   border:none;
   border-left-width: 0;
   min-width: 120px;
   height: 18px;
-}
+} */
 
 form input, form label, form button {
   display: block;
